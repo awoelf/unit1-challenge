@@ -16,7 +16,7 @@ Distributed unter the MIT license. See `LICENSE.txt` for more information
 
 
 ## Contact
-Alexis Woelffer - [awoelf@gmail.com](mailto:awoelf@gmail.com)
+Alexis Woelffer - [awoelf@outlook.com](mailto:awoelf@outlook.com)
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
